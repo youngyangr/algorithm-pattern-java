@@ -239,7 +239,7 @@ public int[] hitBricks(int[][] grid, int[][] hits) {
         }
     }
     // 从后向前把砖块补上
-    int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    int[][] directions = {{0, 1}};
     for (int i = hits.length - 1; i >= 0; i--) {
         int r = hits[i][0];
         int c = hits[i][1];
