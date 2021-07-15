@@ -1,13 +1,10 @@
 # 算法模板（Java版）
 
-> 本项目内容主要参考[算法模板](https://github.com/greyireland/algorithm-pattern)，在此感谢原作者的整理与贡献
+> 本项目内容主要参考[算法模板](https://chienmy.gitbook.io/algorithm-pattern-java/)，在此感谢原作者的整理与贡献
 
 在原项目的基础上，尽量保持了原有的结构划分，并做了一点微小的工作：
 
-- 代码改写为`java`语言版本
-- 调整内容，新增了几种算法
-- 补充部分[leetcode中国站](https://leetcode-cn.com/)的题目链接
-- 书籍链接：[GitBook](https://chienmy.gitbook.io/algorithm-pattern-java/)
+- 部分内容实现不同的题解
 
 ## 核心内容
 
